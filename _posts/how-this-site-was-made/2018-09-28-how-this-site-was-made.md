@@ -1,22 +1,22 @@
 ---
 title: How this site was born 👶
-date: 2018-09-28 09:45:47 +07:00
-modified: 2019-08-29 09:24:47 +07:00
-tags: [blog, netlify, jekyll, github]
-description: All the services are free, a source code this site placed on github repository and intergration with netlify service, another service that you can use is github page for hosting your own static site.
+date: 2022-12-31 19:44:00 +08:00
+modified: 2022-12-31 19:44:00 +08:00
+tags: [blog, vercel, jekyll, github]
+description: All the services are free, a source code this site placed on github repository and intergration with vercel service, another service that you can use is github page for hosting your own static site.
 ---
 
-The website was made using Jekyll the one of open source static sites generator, and using my own simple theme, I called [klisé](https://github.com/piharpi/klise).
+The website was made using Jekyll the one of open source static sites generator, and using my own simple theme, the creator called [klisé](https://github.com/piharpi/klise).
 
 <hr>
 
-All the services are free, source code the site was placed on my [github](https://github.com/piharpi/mahendrata.now.sh) repository and intergration with ~~[netlify](https://netlify.com)~~ service, another service that you can use is [github page](https://pages.github.com/) for hosting your own static site.
+All the services are free, source code the site was placed on [github](https://github.com/piharpi/mahendrata.now.sh) repository and intergration with ~~[vercel](https://verel.app)~~ service, another service that you can use is [github page](https://pages.github.com/) for hosting your own static site.
 
 <hr>
 
 #### Let's do this
 
-So, before we start create a site, you need some tools, you can self paced for how to installing each tools, on this guide i'm just want to show you how to install jekyll and deploying in netlify, but make sure you have each tools below.
+So, before we start create a site, you need some tools, you can self paced for how to installing each tools, on this guide i'm just want to show you how to install jekyll and deploying in vercel, but make sure you have each tools below.
 
 #### Prerequisites
 
@@ -53,12 +53,13 @@ Now check your github repository, make sure the files is uploaded correctly.
 
 #### Deploying to netlify
 
-Go [netlify](https://netlify.com) dashboard, and following this step.
+Go [vercel](https://vercel.app) dashboard, and following this step.
 
-1. click `new site from git`, then choose `Github`.
+1. Create an account. (I recommend use git integration)
+2. click `Add New...`, then choose `Project`.
 2. then choose your repository where is the jekyll sources uploaded.
-3. netlify smart enough to configuring, we just need's are hosting's are hosting's are hosting's are hosting to click `Deploy site button`.
+3. vercel smart enough to configuring, we just need's are hosting to click `Impot`, then `deploy`.
 
-Wait for moment, and voila..! your site's are hosting and using `.netlify.com` tld, if your website wants to look professional, just buy a domain from your favorite domain store. or if you the first time, I advice using namecheap.com*(isn't sponsor)* \*based on my experienced it provides good service and have various TLDs.
+Wait for moment, and voila..! your site's are hosting and using `.vercel.app` tld, if your website wants to look professional, just buy a domain from your favorite domain store. or if you the first time, I advice using namecheap.com*(isn't sponsor)* \*based on my experienced it provides good service and have various TLDs.
 
 So, what you waiting for, just create your own website for free.
