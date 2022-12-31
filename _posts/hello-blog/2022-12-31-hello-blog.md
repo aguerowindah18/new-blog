@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Hello, Blog!
 date: 2022-12-31 19:27:00 +08:00
 modified: 2022-12-31 19:27:00 +08:00
