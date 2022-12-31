@@ -87,10 +87,12 @@ layout: compress
     {% if page.next or page.previous %}
       {% include navigation.html %}
     {% endif %}
-
-    {% if site.comments_repo %}
-      {% include comments.html %}
-    {% endif %}
+    
+    <div class="no-print">
+      <script src="https://utteranc.es/client.js" repo="aguerowindah18/new-blog" issue-term="og:title" label="comments" theme="preferred-color-scheme" crossorigin="anonymous" async>
+      </script>
+   </script>
+   </div>
 
     {% include footer.html %}
   </div>
