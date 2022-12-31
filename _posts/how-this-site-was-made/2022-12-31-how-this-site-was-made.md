@@ -24,7 +24,7 @@ Requirements before we doing magic show.
 
 - [Ruby](https://www.ruby-lang.org/en/downloads/) programming language
 - [Git](https://git-scm.com) (version control)
-- [Netlify](https://netlify.com) and [Github](https://github.com) account
+- [Vercel](https://vercel.com) and [Github](https://github.com) account
 - [Bundler](https://bundler.io)
 
 #### Installation
