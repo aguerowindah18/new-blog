@@ -4,6 +4,7 @@ date: 2022-12-31 19:44:00 +08:00
 modified: 2022-12-31 19:44:00 +08:00
 tags: [blog, vercel, jekyll, github]
 description: All the services are free, a source code this site placed on github repository and intergration with vercel service, another service that you can use is github page for hosting your own static site.
+image: path/to/post/image.jpg
 ---
 
 The website was made using Jekyll the one of open source static sites generator, and using my own simple theme, the creator called [klisé](https://github.com/piharpi/klise).
