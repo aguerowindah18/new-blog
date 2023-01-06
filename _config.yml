@@ -20,7 +20,7 @@ author:
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
   email: agudev01@gmail.com # email adress
-  avatar: /assets/img/foto-profil.jpg # change with your own avatar
+  avatar: /assets/img/foto-profil.png # change with your own avatar
 
 # URL settings
 url: "https://agu-blog.vercel.app" #
